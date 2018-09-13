@@ -20,4 +20,4 @@ AND RUN THIS COMMAND AND ENJOY !
 
 or
 
--> node pupdate.json
+-> node pupdate.js
